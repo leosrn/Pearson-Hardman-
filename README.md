@@ -1,2 +1,2 @@
 # Pearson Hardman 
- Projeto de página de advocacia criada inspirada na Série Suits.
+ Projeto de página de advocacia criada e inspirada na Série Suits.
